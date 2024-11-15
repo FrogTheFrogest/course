@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" translate="no" >
+<head data-requesttoken="Y+uP1hV8zyUkG+/NK9a0T+x1dBBoPLXEH/wPEf60gBY=:FaPcjnAPqUttf464X7/FG7Q2R3M7ZMG3c8ppJaT6y0I=">
+	<meta charset="utf-8">
+	<title>
+		IBU Cloud	</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		<meta name="apple-itunes-app" content="app-id=1125420102">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="IBU Cloud">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="theme-color" content="#086017">
+	<link rel="icon" href="/index.php/apps/theming/favicon?v=1cd364f8">
+	<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=1cd364f8">
+	<link rel="apple-touch-icon-precomposed" href="/index.php/apps/theming/icon?v=1cd364f8">
+	<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#086017">
+	<link rel="manifest" href="/index.php/apps/theming/manifest?v=1cd364f8" crossorigin="use-credentials">
+	<link rel="stylesheet" href="/core/css/server.css?v=ec350cd0-10">
+<link rel="stylesheet" href="/apps/integration_gitlab/css/gitlab-search.css?v=d9e15b75-10">
+<link rel="stylesheet" href="/apps/files_sharing/css/publicView.css?v=d9f3b2ec-10">
+<link rel="stylesheet" href="/apps/viewer/css/viewer-main.css?v=70e2b24f-10">
+<link rel="stylesheet" href="/apps/spreed/css/icons.css?v=423104fc-10">
+<link rel="stylesheet" href="/apps/spreed/css/publicshare.css?v=423104fc-10">
+<link rel="stylesheet" href="/apps/announcementcenter/css/announcementcenter-global.css?v=dd729a76-10">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-10">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=0d6d4ea2-10">
+	<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/core/js/public/publicpage.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/core-common.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/core-main.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/groupfolders/js/groupfolders-init.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/core-files_fileinfo.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/core-files_client.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/index.php/js/core/merged-template-prepend.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files/js/semaphore.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files/js/file-upload.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files/js/fileactions.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files/js/fileactionsmenu.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files/js/jquery.fileupload.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/files-reference-files.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_sharing/js/public.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_sharing/js/templates.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_sharing/js/files_drop.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_sharing/js/public_note.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/dist/files_sharing-main.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/viewer/js/viewer-main.mjs?v=ec350cd0-10" type="module"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_pdfviewer/js/files_pdfviewer-main.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/files_pdfviewer/js/files_pdfviewer-public.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/text/js/text-viewer.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/text/js/text-editors.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/text/js/text-public.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/deck/js/deck-reference.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/calendar/js/calendar-reference.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/integration_gitlab/js/integration_gitlab-reference.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/groupfolders/js/groupfolders-files.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/spreed/js/talk-public-share-sidebar.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/apporder/js/apporder.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=" defer src="/apps/theming/js/theming.js?v=ec350cd0-10"></script>
+<script nonce="WSt1UDFoVjh6eVVrRysvTks5YTBUK3gxZEJCb1BMWEVIL3dQRWY2MGdCWT06RmFQY2puQVBxVXR0ZjQ2NFg3L0ZHN1EyUjNNN1pNRzNjOHBwSmFUNnkwST0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"activity":"/apps/activity","admin_audit":"/apps/admin_audit","announcementcenter":"/apps/announcementcenter","apporder":"/apps/apporder","calendar":"/apps/calendar","checksum":"/apps/checksum","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","deck":"/apps/deck","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_accesscontrol":"/apps/files_accesscontrol","files_antivirus":"/apps/files_antivirus","files_downloadlimit":"/apps/files_downloadlimit","files_external":"/apps/files_external","files_pdfviewer":"/apps/files_pdfviewer","files_reminders":"/apps/files_reminders","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","firstrunwizard":"/apps/firstrunwizard","groupfolders":"/apps/groupfolders","integration_gitlab":"/apps/integration_gitlab","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","metadata":"/apps/metadata","nextcloud_announcements":"/apps/nextcloud_announcements","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","polls":"/apps/polls","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","quota_warning":"/apps/quota_warning","recommendations":"/apps/recommendations","related_resources":"/apps/related_resources","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","sharerenamer":"/apps/sharerenamer","spreed":"/apps/spreed","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_ldap":"/apps/user_ldap","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1731579537;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"auto_logout":false,"blacklist_files_regex":"\\.(part|filepart)$","forbidden_filename_characters":["\\","\/"],"loglevel":"1","lost_password_link":null,"modRewriteWorking":false,"no_unsupported_browser_warning":false,"session_keepalive":true,"session_lifetime":1440,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"version":"29.0.6.1","versionstring":"29.0.6","enable_non-accessible_features":true};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":14,"defaultExpireDateEnforced":false,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/29\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"IBU Cloud","name":"IBU Cloud","productName":"Nextcloud","title":"IBU Cloud","baseUrl":"http:\/\/bioinformatics.unibe.ch","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/29\/go.php?to=PLACEHOLDER","slogan":"Interfaculty Bioinformatics Unit (Unibe) Cloud","logoClaim":"","folder":""};
+
+</script>
+	<meta property="og:title" content="BT134.aln1.sorted.bam.bai"/><meta property="og:description" content="IBU Cloud - Interfaculty Bioinformatics Unit (Unibe) Cloud"/><meta property="og:site_name" content="IBU Cloud"/><meta property="og:url" content="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe"/><meta property="og:type" content="object"/><meta property="og:image" content="https://cloud.bioinformatics.unibe.ch/index.php/apps/theming/icon?v=1cd364f8"/><meta id="app" class="nc-enable-screensharing-extension" name="nextcloud-talk-enable-screensharing-extension" content="true"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/default.css?plain=1&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: light)" href="/index.php/apps/theming/theme/light.css?plain=1&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/theming/theme/dark.css?plain=1&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="(prefers-contrast: more)" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=1&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark) and (prefers-contrast: more)" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=1&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light.css?plain=0&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark.css?plain=0&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=0&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=0&amp;v=1cd364f8" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/opendyslexic.css?plain=0&amp;v=1cd364f8" class="theme"/><meta name="color-scheme" content="light dark"/></head>
+<body id="body-public">
+<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+	<input type="hidden" id="initial-state-calendar-app_version" value="IjQuNy4xNiI=">
+	<input type="hidden" id="initial-state-calendar-event_limit" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-first_run" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-initial_view" value="ImRheUdyaWRNb250aCI=">
+	<input type="hidden" id="initial-state-calendar-show_weekends" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-show_week_numbers" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-calendar-skip_popover" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-calendar-talk_enabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-talk_api_version" value="InY0Ig==">
+	<input type="hidden" id="initial-state-calendar-timezone" value="ImF1dG9tYXRpYyI=">
+	<input type="hidden" id="initial-state-calendar-attachments_folder" value="IlwvQ2FsZW5kYXIi">
+	<input type="hidden" id="initial-state-calendar-slot_duration" value="IjAwOjMwOjAwIg==">
+	<input type="hidden" id="initial-state-calendar-default_reminder" value="Im5vbmUi">
+	<input type="hidden" id="initial-state-calendar-show_tasks" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-tasks_enabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-hide_event_export" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-calendar-force_event_alarm_type" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-calendar-disable_appointments" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-calendar-can_subscribe_link" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-show_resources" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-isCirclesEnabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-calendar-publicCalendars" value="IiI=">
+	<input type="hidden" id="initial-state-core-reference-provider-list" value="W3siaWQiOiJjYWxlbmRhciIsInRpdGxlIjoiQ2FsZW5kYXIiLCJpY29uX3VybCI6Imh0dHBzOlwvXC9jbG91ZC5iaW9pbmZvcm1hdGljcy51bmliZS5jaFwvYXBwc1wvY2FsZW5kYXJcL2ltZ1wvY2FsZW5kYXItZGFyay5zdmciLCJvcmRlciI6MjB9LHsiaWQiOiJjcmVhdGUtbmV3LWRlY2stY2FyZCIsInRpdGxlIjoiQ3JlYXRlIGEgbmV3IGRlY2sgY2FyZCIsImljb25fdXJsIjoiaHR0cHM6XC9cL2Nsb3VkLmJpb2luZm9ybWF0aWNzLnVuaWJlLmNoXC9hcHBzXC9kZWNrXC9pbWdcL2RlY2stZGFyay5zdmciLCJvcmRlciI6MTB9LHsiaWQiOiJkZWNrLXJlZi1jYXJkcyIsInRpdGxlIjoiRGVjayBib2FyZHMsIGNhcmRzIGFuZCBjb21tZW50cyIsImljb25fdXJsIjoiaHR0cHM6XC9cL2Nsb3VkLmJpb2luZm9ybWF0aWNzLnVuaWJlLmNoXC9hcHBzXC9kZWNrXC9pbWdcL2RlY2stZGFyay5zdmciLCJvcmRlciI6MTAsInNlYXJjaF9wcm92aWRlcnNfaWRzIjpbInNlYXJjaC1kZWNrLWNhcmQtYm9hcmQiLCJzZWFyY2gtZGVjay1jb21tZW50Il19LHsiaWQiOiJnaXRsYWItaXNzdWUtbXIiLCJ0aXRsZSI6IkdpdExhYiByZXBvc2l0b3JpZXMsIGlzc3VlcyBhbmQgbWVyZ2UgcmVxdWVzdHMiLCJpY29uX3VybCI6Imh0dHBzOlwvXC9jbG91ZC5iaW9pbmZvcm1hdGljcy51bmliZS5jaFwvYXBwc1wvaW50ZWdyYXRpb25fZ2l0bGFiXC9pbWdcL2FwcC1kYXJrLnN2ZyIsIm9yZGVyIjoxMCwic2VhcmNoX3Byb3ZpZGVyc19pZHMiOlsiZ2l0bGFiLXNlYXJjaC1pc3N1ZXMiLCJnaXRsYWItc2VhcmNoLXJlcG9zIiwiZ2l0bGFiLXNlYXJjaC1tcnMiXX0seyJpZCI6InNwcmVlZCIsInRpdGxlIjoiVGFsayBjb252ZXJzYXRpb25zIiwiaWNvbl91cmwiOiJcL2FwcHNcL3NwcmVlZFwvaW1nXC9hcHAtZGFyay5zdmciLCJvcmRlciI6MCwic2VhcmNoX3Byb3ZpZGVyc19pZHMiOlsidGFsay1jb252ZXJzYXRpb25zIl19LHsiaWQiOiJmaWxlcyIsInRpdGxlIjoiRmlsZXMiLCJpY29uX3VybCI6IlwvYXBwc1wvZmlsZXNcL2ltZ1wvZm9sZGVyLnN2ZyIsIm9yZGVyIjowfV0=">
+	<input type="hidden" id="initial-state-core-reference-provider-timestamps" value="W10=">
+	<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-core-config" value="eyJhdXRvX2xvZ291dCI6ZmFsc2UsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQiLCJmb3JiaWRkZW5fZmlsZW5hbWVfY2hhcmFjdGVycyI6WyJcXCIsIlwvIl0sImxvZ2xldmVsIjoiMSIsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJub191bnN1cHBvcnRlZF9icm93c2VyX3dhcm5pbmciOmZhbHNlLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwic2Vzc2lvbl9saWZldGltZSI6MTQ0MCwic2hhcmluZy5tYXhBdXRvY29tcGxldGVSZXN1bHRzIjoyNSwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsInZlcnNpb24iOiIyOS4wLjYuMSIsInZlcnNpb25zdHJpbmciOiIyOS4wLjYiLCJlbmFibGVfbm9uLWFjY2Vzc2libGVfZmVhdHVyZXMiOnRydWV9">
+	<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKShbLUEtWjAtOStfLl0rKD86OlswLTldKyk/KD86XFxcL1stQS1aMC05KyZAIyU/PX5ffCE6LC47KCldKikqKShcXHN8XFxufCQpIiwibW9kLXJld3JpdGUtd29ya2luZyI6ZmFsc2V9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJmb3JiaWRkZW5fZmlsZW5hbWVfY2hhcmFjdGVycyI6WyJcXCIsIlwvIl0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZSwidmVyc2lvbl9sYWJlbGluZyI6dHJ1ZSwidmVyc2lvbl9kZWxldGlvbiI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyOS4wLjAtZGV2Iiwic3RhdHVzIjp7Imdsb2JhbFNjYWxlIjpmYWxzZX0sInNldHRpbmdzIjp7ImZyb250ZW5kRW5hYmxlZCI6dHJ1ZSwiYWxsb3dlZENpcmNsZXMiOjI2MjE0MywiYWxsb3dlZFVzZXJUeXBlcyI6MzEsIm1lbWJlcnNMaW1pdCI6LTF9LCJjaXJjbGUiOnsiY29uc3RhbnRzIjp7ImZsYWdzIjp7IjEiOiJTaW5nbGUiLCIyIjoiUGVyc29uYWwiLCI0IjoiU3lzdGVtIiwiOCI6IlZpc2libGUiLCIxNiI6Ik9wZW4iLCIzMiI6Ikludml0ZSIsIjY0IjoiSm9pbiByZXF1ZXN0IiwiMTI4IjoiRnJpZW5kcyIsIjI1NiI6IlBhc3N3b3JkIHByb3RlY3RlZCIsIjUxMiI6Ik5vIE93bmVyIiwiMTAyNCI6IkhpZGRlbiIsIjIwNDgiOiJCYWNrZW5kIiwiNDA5NiI6IkxvY2FsIiwiODE5MiI6IlJvb3QiLCIxNjM4NCI6IlRlYW0gaW52aXRlIiwiMzI3NjgiOiJGZWRlcmF0ZWQiLCI2NTUzNiI6Ik1vdW50IHBvaW50In0sInNvdXJjZSI6eyJjb3JlIjp7IjEiOiJOZXh0Y2xvdWQgQWNjb3VudCIsIjIiOiJOZXh0Y2xvdWQgR3JvdXAiLCI0IjoiRW1haWwgYWRkcmVzcyIsIjgiOiJDb250YWN0IiwiMTYiOiJDaXJjbGUiLCIxMDAwMCI6Ik5leHRjbG91ZCBBcHAifSwiZXh0cmEiOnsiMTAwMDEiOiJDaXJjbGVzIEFwcCIsIjEwMDAyIjoiQWRtaW4gQ29tbWFuZCBMaW5lIn19fSwiY29uZmlnIjp7ImNvcmVGbGFncyI6WzEsMiw0XSwic3lzdGVtRmxhZ3MiOls1MTIsMTAyNCwyMDQ4XX19LCJtZW1iZXIiOnsiY29uc3RhbnRzIjp7ImxldmVsIjp7IjEiOiJNZW1iZXIiLCI0IjoiTW9kZXJhdG9yIiwiOCI6IkFkbWluIiwiOSI6Ik93bmVyIn19LCJ0eXBlIjp7IjAiOiJzaW5nbGUiLCIxIjoidXNlciIsIjIiOiJncm91cCIsIjQiOiJtYWlsIiwiOCI6ImNvbnRhY3QiLCIxNiI6ImNpcmNsZSIsIjEwMDAwIjoiYXBwIn19fSwib2NtIjp7ImVuYWJsZWQiOnRydWUsImFwaVZlcnNpb24iOiIxLjAtcHJvcG9zYWwxIiwiZW5kUG9pbnQiOiJodHRwczpcL1wvY2xvdWQuYmlvaW5mb3JtYXRpY3MudW5pYmUuY2hcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAiLCJidWxrdXBsb2FkIjoiMS4wIn0sImRlY2siOnsidmVyc2lvbiI6IjEuMTMuMSIsImNhbkNyZWF0ZUJvYXJkcyI6ZmFsc2UsImFwaVZlcnNpb25zIjpbIjEuMCIsIjEuMSJdfSwiZG93bmxvYWRsaW1pdCI6eyJlbmFibGVkIjp0cnVlfSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJkYXlzIjoxNCwiZW5mb3JjZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfSwic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwic2VuZF9wYXNzd29yZF9ieV9tYWlsIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6eyJlbmFibGVkIjp0cnVlfSwicGFzc3dvcmQiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfX19LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuMTAuMSJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyIsImV4aXN0cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTQsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOnRydWUsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6dHJ1ZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLmJpb2luZm9ybWF0aWNzLnVuaWJlLmNoXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLmJpb2luZm9ybWF0aWNzLnVuaWJlLmNoXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xOS4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6dHJ1ZX0sInNwcmVlZCI6eyJmZWF0dXJlcyI6WyJhdWRpbyIsInZpZGVvIiwiY2hhdC12MiIsImNvbnZlcnNhdGlvbi12NCIsImd1ZXN0LXNpZ25hbGluZyIsImVtcHR5LWdyb3VwLXJvb20iLCJndWVzdC1kaXNwbGF5LW5hbWVzIiwibXVsdGktcm9vbS11c2VycyIsImZhdm9yaXRlcyIsImxhc3Qtcm9vbS1hY3Rpdml0eSIsIm5vLXBpbmciLCJzeXN0ZW0tbWVzc2FnZXMiLCJkZWxldGUtbWVzc2FnZXMiLCJtZW50aW9uLWZsYWciLCJpbi1jYWxsLWZsYWdzIiwiY29udmVyc2F0aW9uLWNhbGwtZmxhZ3MiLCJub3RpZmljYXRpb24tbGV2ZWxzIiwiaW52aXRlLWdyb3Vwcy1hbmQtbWFpbHMiLCJsb2NrZWQtb25lLXRvLW9uZS1yb29tcyIsInJlYWQtb25seS1yb29tcyIsImxpc3RhYmxlLXJvb21zIiwiY2hhdC1yZWFkLW1hcmtlciIsImNoYXQtdW5yZWFkIiwid2ViaW5hcnktbG9iYnkiLCJzdGFydC1jYWxsLWZsYWciLCJjaGF0LXJlcGxpZXMiLCJjaXJjbGVzLXN1cHBvcnQiLCJmb3JjZS1tdXRlIiwic2lwLXN1cHBvcnQiLCJzaXAtc3VwcG9ydC1ub3BpbiIsImNoYXQtcmVhZC1zdGF0dXMiLCJwaG9uZWJvb2stc2VhcmNoIiwicmFpc2UtaGFuZCIsInJvb20tZGVzY3JpcHRpb24iLCJyaWNoLW9iamVjdC1zaGFyaW5nIiwidGVtcC11c2VyLWF2YXRhci1hcGkiLCJnZW8tbG9jYXRpb24tc2hhcmluZyIsInZvaWNlLW1lc3NhZ2Utc2hhcmluZyIsInNpZ25hbGluZy12MyIsInB1Ymxpc2hpbmctcGVybWlzc2lvbnMiLCJjbGVhci1oaXN0b3J5IiwiZGlyZWN0LW1lbnRpb24tZmxhZyIsIm5vdGlmaWNhdGlvbi1jYWxscyIsImNvbnZlcnNhdGlvbi1wZXJtaXNzaW9ucyIsInJpY2gtb2JqZWN0LWxpc3QtbWVkaWEiLCJyaWNoLW9iamVjdC1kZWxldGUiLCJ1bmlmaWVkLXNlYXJjaCIsImNoYXQtcGVybWlzc2lvbiIsInNpbGVudC1zZW5kIiwic2lsZW50LWNhbGwiLCJzZW5kLWNhbGwtbm90aWZpY2F0aW9uIiwidGFsay1wb2xscyIsImJyZWFrb3V0LXJvb21zLXYxIiwicmVjb3JkaW5nLXYxIiwiYXZhdGFyIiwiY2hhdC1nZXQtY29udGV4dCIsInNpbmdsZS1jb252ZXJzYXRpb24tc3RhdHVzIiwiY2hhdC1rZWVwLW5vdGlmaWNhdGlvbnMiLCJ0eXBpbmctcHJpdmFjeSIsInJlbWluZC1tZS1sYXRlciIsImJvdHMtdjEiLCJtYXJrZG93bi1tZXNzYWdlcyIsIm1lZGlhLWNhcHRpb24iLCJzZXNzaW9uLXN0YXRlIiwibm90ZS10by1zZWxmIiwicmVjb3JkaW5nLWNvbnNlbnQiLCJzaXAtc3VwcG9ydC1kaWFsb3V0IiwiZGVsZXRlLW1lc3NhZ2VzLXVubGltaXRlZCIsImVkaXQtbWVzc2FnZXMiLCJzaWxlbnQtc2VuZC1zdGF0ZSIsImNoYXQtcmVhZC1sYXN0IiwiZmVkZXJhdGlvbi12MSIsIm1lc3NhZ2UtZXhwaXJhdGlvbiIsInJlYWN0aW9ucyIsImNoYXQtcmVmZXJlbmNlLWlkIl0sImZlYXR1cmVzLWxvY2FsIjpbImZhdm9yaXRlcyIsImNoYXQtcmVhZC1zdGF0dXMiLCJsaXN0YWJsZS1yb29tcyIsInBob25lYm9vay1zZWFyY2giLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsInVuaWZpZWQtc2VhcmNoIiwiYXZhdGFyIiwicmVtaW5kLW1lLWxhdGVyIiwibm90ZS10by1zZWxmIl0sImNvbmZpZyI6eyJhdHRhY2htZW50cyI6eyJhbGxvd2VkIjpmYWxzZX0sImNhbGwiOnsiZW5hYmxlZCI6dHJ1ZSwiYnJlYWtvdXQtcm9vbXMiOnRydWUsInJlY29yZGluZyI6ZmFsc2UsInJlY29yZGluZy1jb25zZW50IjowLCJzdXBwb3J0ZWQtcmVhY3Rpb25zIjpbIlx1Mjc2NFx1ZmUwZiIsIlx1ZDgzY1x1ZGY4OSIsIlx1ZDgzZFx1ZGM0ZiIsIlx1ZDgzZFx1ZGM0ZCIsIlx1ZDgzZFx1ZGM0ZSIsIlx1ZDgzZFx1ZGUwMiIsIlx1ZDgzZVx1ZGQyOSIsIlx1ZDgzZVx1ZGQxNCIsIlx1ZDgzZFx1ZGUzMiIsIlx1ZDgzZFx1ZGUyNSJdLCJjYW4tdXBsb2FkLWJhY2tncm91bmQiOmZhbHNlLCJzaXAtZW5hYmxlZCI6ZmFsc2UsInNpcC1kaWFsb3V0LWVuYWJsZWQiOmZhbHNlLCJjYW4tZW5hYmxlLXNpcCI6ZmFsc2UsInByZWRlZmluZWQtYmFja2dyb3VuZHMiOlsiMV9vZmZpY2UuanBnIiwiMl9ob21lLmpwZyIsIjNfYWJzdHJhY3QuanBnIiwiNF9iZWFjaC5qcGciLCI1X3BhcmsuanBnIiwiNl90aGVhdGVyLmpwZyIsIjdfbGlicmFyeS5qcGciLCI4X3NwYWNlX3N0YXRpb24uanBnIl19LCJjaGF0Ijp7Im1heC1sZW5ndGgiOjMyMDAwLCJyZWFkLXByaXZhY3kiOjAsImhhcy10cmFuc2xhdGlvbi1wcm92aWRlcnMiOmZhbHNlLCJ0eXBpbmctcHJpdmFjeSI6MH0sImNvbnZlcnNhdGlvbnMiOnsiY2FuLWNyZWF0ZSI6ZmFsc2V9LCJmZWRlcmF0aW9uIjp7ImVuYWJsZWQiOmZhbHNlLCJpbmNvbWluZy1lbmFibGVkIjpmYWxzZSwib3V0Z29pbmctZW5hYmxlZCI6ZmFsc2UsIm9ubHktdHJ1c3RlZC1zZXJ2ZXJzIjp0cnVlfSwicHJldmlld3MiOnsibWF4LWdpZi1zaXplIjozMTQ1NzI4fSwic2lnbmFsaW5nIjp7InNlc3Npb24tcGluZy1saW1pdCI6MjAwLCJoZWxsby12Mi10b2tlbi1rZXkiOiItLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLVxuTUZrd0V3WUhLb1pJemowQ0FRWUlLb1pJemowREFRY0RRZ0FFU3I3SHBHdk93N3VOOGJ6RW9RVjQrTVFLUGpiSlxuSXZDXC9Ua2pYSDlKblFiNEs4WjdSMVp3blRDczBTRUNFQzJxVG1Bek1YRnNcL2h1Wkg3NVdyMk94Y0dRPT1cbi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLVxuIn19LCJjb25maWctbG9jYWwiOnsiYXR0YWNobWVudHMiOlsiYWxsb3dlZCIsImZvbGRlciJdLCJjYWxsIjpbInByZWRlZmluZWQtYmFja2dyb3VuZHMiLCJjYW4tdXBsb2FkLWJhY2tncm91bmQiXSwiY2hhdCI6WyJyZWFkLXByaXZhY3kiLCJoYXMtdHJhbnNsYXRpb24tcHJvdmlkZXJzIiwidHlwaW5nLXByaXZhY3kiXSwiY29udmVyc2F0aW9ucyI6WyJjYW4tY3JlYXRlIl0sImZlZGVyYXRpb24iOlsiZW5hYmxlZCIsImluY29taW5nLWVuYWJsZWQiLCJvdXRnb2luZy1lbmFibGVkIiwib25seS10cnVzdGVkLXNlcnZlcnMiXSwicHJldmlld3MiOlsibWF4LWdpZi1zaXplIl0sInNpZ25hbGluZyI6WyJzZXNzaW9uLXBpbmctbGltaXQiLCJoZWxsby12Mi10b2tlbi1rZXkiXX0sInZlcnNpb24iOiIxOS4wLjgifSwic3lzdGVtdGFncyI6eyJlbmFibGVkIjp0cnVlfSwidGhlbWluZyI6eyJuYW1lIjoiSUJVIENsb3VkIiwidXJsIjoiaHR0cDpcL1wvYmlvaW5mb3JtYXRpY3MudW5pYmUuY2giLCJzbG9nYW4iOiJJbnRlcmZhY3VsdHkgQmlvaW5mb3JtYXRpY3MgVW5pdCAoVW5pYmUpIENsb3VkIiwiY29sb3IiOiIjMDg2MDE3IiwiY29sb3ItdGV4dCI6IiNmZmZmZmYiLCJjb2xvci1lbGVtZW50IjoiIzA4NjAxNyIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiIzA4NjAxNyIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiMwODYwMTciLCJsb2dvIjoiaHR0cHM6XC9cL2Nsb3VkLmJpb2luZm9ybWF0aWNzLnVuaWJlLmNoXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTAiLCJiYWNrZ3JvdW5kIjoiIzA4NjAxNyIsImJhY2tncm91bmQtcGxhaW4iOnRydWUsImJhY2tncm91bmQtZGVmYXVsdCI6dHJ1ZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC5iaW9pbmZvcm1hdGljcy51bmliZS5jaFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEwIiwiZmF2aWNvbiI6Imh0dHBzOlwvXC9jbG91ZC5iaW9pbmZvcm1hdGljcy51bmliZS5jaFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEwIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInJlc3RvcmUiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+	<input type="hidden" id="initial-state-core-versionHash" value="ImVjMzUwY2QwIg==">
+	<input type="hidden" id="initial-state-text-workspace_available" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-text-workspace_enabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-text-default_file_extension" value="Im1kIg==">
+	<input type="hidden" id="initial-state-text-rich_editing_enabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-text-translation_can_detect" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-text-translation_languages" value="W10=">
+	<input type="hidden" id="initial-state-text-textprocessing" value="W10=">
+	<input type="hidden" id="initial-state-text-file_id" value="NTY4ODY1">
+	<input type="hidden" id="initial-state-viewer-enabled_preview_providers" value="WyJcL2FwcGxpY2F0aW9uXFxcL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuKlwvIiwiXC9hcHBsaWNhdGlvblxcXC94LWtyaXRhXC8iLCJcL3RleHRcXFwvKHgtKT9tYXJrZG93blwvIiwiXC9pbWFnZVxcXC94LXhiaXRtYXBcLyIsIlwvYXVkaW9cXFwvbXBlZ1wvIiwiXC9pbWFnZVxcXC93ZWJwXC8iLCJcL2ltYWdlXFxcL2pwZWdcLyIsIlwvdGV4dFxcXC9wbGFpblwvIiwiXC9pbWFnZVxcXC9ibXBcLyIsIlwvaW1hZ2VcXFwvZ2lmXC8iLCJcL2ltYWdlXFxcL3BuZ1wvIl0=">
+	<input type="hidden" id="initial-state-spreed-call_enabled" value="dHJ1ZQ==">
+	<input type="hidden" id="initial-state-spreed-signaling_mode" value="ImludGVybmFsIg==">
+	<input type="hidden" id="initial-state-spreed-sip_dialin_info" value="IiI=">
+	<input type="hidden" id="initial-state-spreed-grid_videos_limit" value="MTk=">
+	<input type="hidden" id="initial-state-spreed-grid_videos_limit_enforced" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-spreed-federation_enabled" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-spreed-default_permissions" value="MjQ2">
+	<input type="hidden" id="initial-state-spreed-start_conversations" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-spreed-circles_enabled" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-spreed-read_status_privacy" value="MA==">
+	<input type="hidden" id="initial-state-spreed-typing_privacy" value="MA==">
+	<input type="hidden" id="initial-state-spreed-attachment_folder" value="IiI=">
+	<input type="hidden" id="initial-state-spreed-attachment_folder_free_space" value="IiI=">
+	<input type="hidden" id="initial-state-spreed-enable_matterbridge" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-spreed-play_sounds" value="ZmFsc2U=">
+	<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiSUJVIENsb3VkIiwidXJsIjoiaHR0cDpcL1wvYmlvaW5mb3JtYXRpY3MudW5pYmUuY2giLCJzbG9nYW4iOiJJbnRlcmZhY3VsdHkgQmlvaW5mb3JtYXRpY3MgVW5pdCAoVW5pYmUpIENsb3VkIiwiY29sb3IiOiIjMDg2MDE3IiwiZGVmYXVsdENvbG9yIjoiIzA4NjAxNyIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6IjFjZDM2NGY4IiwiZW5hYmxlZFRoZW1lcyI6W119">
+	<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+	<div id="skip-actions">
+		<a href="#content" class="button primary skip-navigation skip-content">Skip to main content</a>			</div>
+
+	<header id="header">
+		<div class="header-left">
+			<div id="nextcloud" class="header-appname">
+									<div class="logo logo-icon"></div>
+				
+				<div class="header-info">
+					<span class="header-title">
+													BT134.aln1.sorted.bam.bai											</span>
+									</div>
+			</div>
+		</div>
+
+		<div class="header-right">
+					<span id="header-primary-action" class="">
+				<a href="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai" class="primary button">
+					<span>Download</span>
+				</a>
+			</span>
+						<div id="header-secondary-action">
+				<button id="header-actions-toggle" class="menutoggle icon-more-white"></button>
+				<div id="header-actions-menu" class="popovermenu menu">
+					<ul>
+						<li id="download"><a href="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai"><span class="icon icon-download"></span>Download &nbsp;<span class="download-size">(178 KB)</span></a></li><li><a id="directLink-container"><span class="icon icon-public"></span><label for="directLink">Direct link</label></a></li><li><span class="menuitem"><input id="directLink" type="text" readonly="" value="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai"></span></li><li>    <button id="save-external-share" class="icon icon-external" data-protected="false" data-owner-display-name="" data-owner="" data-name="BT134.aln1.sorted.bam.bai">Add to your Nextcloud</button></li><li id="external-share-menu-item" class="hidden">    <span class="menuitem">        <form class="save-form" action="#">            <input type="text" id="remote_address" placeholder="user@yourNextcloud.org">            <input type="submit" value=" " id="save-button-confirm" class="icon-confirm" disabled="disabled"></button>        </form>    </span></li>					</ul>
+				</div>
+			</div>
+							</div>
+	</header>
+	<main id="content" class="app-files_sharing">
+		<h1 class="hidden-visually">
+							BT134.aln1.sorted.bam.bai					</h1>
+		<div id="app-content">
+
+<input type="hidden" id="sharingUserId" value="">
+<input type="hidden" id="filesApp" name="filesApp" value="1">
+<input type="hidden" id="isPublic" name="isPublic" value="1">
+	<input type="hidden" name="downloadURL" value="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai" id="downloadURL">
+<input type="hidden" name="previewURL" value="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai" id="previewURL">
+<input type="hidden" name="sharingToken" value="LJS5AG2S55P9Roe" id="sharingToken">
+<input type="hidden" name="filename" value="BT134.aln1.sorted.bam.bai" id="filename">
+<input type="hidden" name="mimetype" value="application/octet-stream" id="mimetype">
+<input type="hidden" name="previewSupported" value="false" id="previewSupported">
+<input type="hidden" name="mimetypeIcon" value="/index.php/apps/theming/img/core/filetypes/file.svg?v=1cd364f8" id="mimetypeIcon">
+<input type="hidden" name="hideDownload" value="false" id="hideDownload">
+<input type="hidden" id="disclaimerText" value="">
+<input type="hidden" name="maxFilesizeUpload" value="17179869184" id="maxFilesizeUpload">
+
+	<input type="hidden" name="filesize" value="182528" id="filesize">
+<input type="hidden" name="maxSizeAnimateGif" value="10" id="maxSizeAnimateGif">
+
+	<!-- ONLY if this is a folder, we show the grid toggle button -->
+	
+	<!-- files listing -->
+	<div id="files-public-content">
+		<div id="preview">
+							<!-- preview frame to open file in with viewer -->
+				<div id="imgframe"></div>
+									<div class="directDownload">
+						<div>
+							BT134.aln1.sorted.bam.bai&nbsp;(178 KB)
+						</div>
+						<a href="https://cloud.bioinformatics.unibe.ch/index.php/s/LJS5AG2S55P9Roe/download/BT134.aln1.sorted.bam.bai" id="downloadFile" class="button">
+							<span class="icon icon-download"></span>
+							Download						</a>
+					</div>
+									</div>
+	</div>
+
+	<div class="hiddenuploadfield">
+		<input type="file" id="file_upload_start" class="hiddenuploadfield" name="files[]"
+			   data-url="/files/ajax/upload.php" />
+	</div>
+</div>
+	</main>
+		<footer>
+		<p><a href="http://bioinformatics.unibe.ch" target="_blank" rel="noreferrer noopener" class="entity-name">IBU Cloud</a> – Interfaculty Bioinformatics Unit (Unibe) Cloud</p>
+					<p class="footer__simple-sign-up">
+				<a href="https://nextcloud.com/signup/" target="_blank" rel="noreferrer noopener">
+					Get your own free account				</a>
+			</p>
+				</footer>
+	
+</body>
+</html>
