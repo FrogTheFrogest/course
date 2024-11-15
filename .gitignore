@@ -8,3 +8,23 @@
 *_out
 *out
 *.out
+#reference files
+*.fa
+*.fasta
+*.fa.fai
+*.dict
+
+# BWA index files
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Large binary files
+*.bam
+*.bai
+*.sam
+
+# Results and logs
+*.log
